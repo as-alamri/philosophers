@@ -12,8 +12,12 @@ There is exactly one fork between each philosopher and a philosopher must take t
 
 to his immediate left and right in order to eat.
 
-# helpful website
+# Helpful website
 
 https://www.codequoi.com/en/threads-mutexes-and-concurrent-programming-in-c/
 
- 
+# Helpful videos
+
+https://www.youtube.com/playlist?list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2
+
+
